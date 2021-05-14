@@ -7,8 +7,10 @@ This consists of a __client__ and a __server__, which are connected through the 
    -  screenshot. 
       - with the command: screenshot
    -  Move in the directoris.
-      -  with the command: cd __*directori*__
+      -  with the command: cd __*directori*__ .
    -  upload files.
-      - with the command: upload __*file*__
+      - with the command: upload __*file*__ .
    -  download files. 
-      - with the command: download __*file*__ 
+      - with the command: download __*file*__ .
+   - Exit.
+      - Exit.
